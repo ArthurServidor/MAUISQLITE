@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\AppMAUISQLIte\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj": {}
+    "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\git_sqlite\\MAUISQLITE\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\AppMAUISQLIte\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj": {
+    "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\git_sqlite\\MAUISQLITE\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\AppMAUISQLIte\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\git_sqlite\\MAUISQLITE\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj",
         "projectName": "MauiAppMinhaMinhasCompras",
-        "projectPath": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\AppMAUISQLIte\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj",
+        "projectPath": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\git_sqlite\\MAUISQLITE\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj",
         "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\AppMAUISQLIte\\MauiAppMinhaMinhasCompras\\obj\\",
+        "outputPath": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\git_sqlite\\MAUISQLITE\\MauiAppMinhaMinhasCompras\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

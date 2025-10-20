@@ -19,5 +19,9 @@
                         Dark={StaticResource Primary}}"/>
             </Style>
         </ResourceDictionary>
+        
+        <StackLayout>
+            
+        </StackLayout>
     </ContentPage.Resources>
 </ContentPage>

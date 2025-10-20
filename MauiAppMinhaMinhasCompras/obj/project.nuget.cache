@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9sYTggRDPh8=",
+  "dgSpecHash": "ptTqgjZiqvQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\AppMAUISQLIte\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj",
+  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\FATEC\\5S\\tiago_MAUI\\MauiAppMinhaMinhasCompras\\git_sqlite\\MAUISQLITE\\MauiAppMinhaMinhasCompras\\MauiAppMinhaMinhasCompras.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthur\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
